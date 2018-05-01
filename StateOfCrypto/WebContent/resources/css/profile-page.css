@@ -1,0 +1,22 @@
+
+.profile-segment-heading {
+	margin-top: 40px;
+	padding: 20px;
+}
+
+.project-of-interest {
+	border: 1px solid grey;
+	height: 200px;
+}
+
+.more-projects-button{
+	width: 100%;
+	margin: 20px 0px 20px 0px;
+	font-size: 15px;
+}
+
+.update-portfolio-button{
+	width: 100%;
+	margin: 20px 0px 20px 0px;
+	font-size: 15px;	
+}
